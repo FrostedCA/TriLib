@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TriLib">
+    <output-path>$PROJECT_DIR$/out/artifacts/TriLib</output-path>
+    <root id="archive" name="TriLib.jar">
+      <element id="module-output" name="TriLib" />
+    </root>
+  </artifact>
+</component>
